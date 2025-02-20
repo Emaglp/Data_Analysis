@@ -13,5 +13,10 @@ Questions :
 Qualité du jeu de données proposé? Un pre-processing des données est-il nécessaire?
 Comment se comportent les différentes variables entre elles?
 Les achats dépendent-ils du style de vie de l'acheteur (famille, marié, revenu etc)?
-Les promotions proposées sont elles efficaces ? Sur quels types de clients ? 
+Les promotions proposées sont elles efficaces ? Sur quels types de clients ? Sur quels types de produits ?
+Quels endroits de ventes sont le plus utilisés ? Sur quels types de clients ? Sur quels types de produits ?
+Des profils de clients se dessinent-ils ? Si oui, quels types de clients, quels types d'achats, grace à quels endroits de ventes ? 
+
+
+
 
