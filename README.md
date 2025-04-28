@@ -17,6 +17,8 @@ Les promotions proposées sont elles efficaces ? Sur quels types de clients ? Su
 Quels endroits de ventes sont le plus utilisés ? Sur quels types de clients ? Sur quels types de produits ?
 Des profils de clients se dessinent-ils ? Si oui, quels types de clients, quels types d'achats, grace à quels endroits de ventes ? 
 
+https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+
 
 
 
